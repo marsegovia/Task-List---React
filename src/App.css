@@ -13,7 +13,7 @@
 }
 
 body {
-	font-family: Poppins;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	max-width: 1200px;
 	margin: 40px auto;
 	display: flex;
@@ -85,7 +85,6 @@ ul li form {
 	font-size: 18px;
 	color: #555;
 	width: 100%;
-	/* background-color: #000; */
 	outline: none;
 }
 
